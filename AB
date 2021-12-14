@@ -18,7 +18,7 @@ container.innerHTML = [
   '<td>AMANDA CRISTINA CARVALHO BALCESKIS</td>',
   '<td>317.193.328-43</td>',
   '<td>41.603.786-0</td>',
-  '<td>AMANDA.BALCESKIS@EDUCACAO.SP.GOV.BR</td>',
+  '<td>AMANDA.BALCESKIS@SP.GOV.BR</td>',
   '<td>05/1985</td>',
   '<td>36</td>',
   '</tr>',
@@ -102,57 +102,6 @@ document.getElementById("tabela").appendChild(criarTabela([
 <a href="https://api.whatsapp.com/send/?phone=5511985515009&text=Você pode me ajudar?">Fale Conosco </a> <div id="tabela"></div>
 
 
-
-<a href="https://atendimentoseesp.crm2.dynamics.com/">CRM </a> <div id="tabela"></div>
-<a href="seducsp.visualstudio.com/">SEDUCSP </a> <div id="tabela"></div>
-<a href="https://seducsp.visualstudio.com/">SEDUCSP VS </a> <div id="tabela"></div>
-<a href="https://dev.azure.com/devopssee/">DEVOPS SEE </a> <div id="tabela"></div>
-
-
-</a>Materiais Importantes - Autor: LUCA</a>
-
-<a href="https://www.al.sp.gov.br/repositorio/legislacao/decreto/2019/decreto-64187-17.04.2019.html"> Decreto nº 64.187, de 17 de abril de 2019 </a> <div id="tabela"></div>
-<a href="http://siau.edunet.sp.gov.br/ItemLise/arquivos/36_16.HTM"> Resolução SE 36, de 25 de maio de 2016 </a> <div id="tabela"></div>
-<a href="https://docs.google.com/document/d/1FSwmJkrcpyV65gZmmjKg440_SQ4aNTn_jVhaOEj0cjk/edit?usp=sharing"> Planejamento Estratégico de Tecnologia Educacional (Revisado em maio/2019) </a> <div id="tabela"></div>
-<a href="http://inovaeducacao.escoladeformacao.sp.gov.br/"> Inova Educação </a> <div id="tabela"></div>
-<a href="https://dados.educacao.sp.gov.br/"> Portal de Dados Abertos da SEDUC </a> <div id="tabela"></div>
-</a> •	Plataformas:</a>  <div id="tabela"></div>
-<a href="https://sed.educacao.sp.gov.br/"> Secretaria Escolar Digital </a> <div id="tabela"></div>
-<a href="http://portalnet.educacao.sp.gov.br/login.aspx"> PortalNet </a> <div id="tabela"></div>
-<a href="https://gdaenet.edunet.sp.gov.br/"> GDAENet </a> <div id="tabela"></div>
-<a href="http://curriculomais.educacao.sp.gov.br/"> Currículo+ </a> <div id="tabela"></div>
-<a href="http://aventuras.educacao.sp.gov.br/"> Aventuras Currículo+ </a> <div id="tabela"></div>
-<a href="https://atendimento.educacao.sp.gov.br/"> Portal de Atendimento </a> <div id="tabela"></div>
-
-
-
-</a>Treinamento - Autor: ALVARO </a>
-
-<a href="https://dev.azure.com/devopssee/">AZURE </a> <div id="tabela"></div>
-<a href="https://seducsp.visualstudio.com/#">VS </a> <div id="tabela"></div>
-
-
-
-</a>Materiais de apoio DIÁRIO DE CLASSE - Autor: YANCA</a>
-
-<a href="https://docs.google.com/spreadsheets/d/16NVC2N__r0pccOzG5RNXSMYHm9ZQoQqo/edit?usp=sharing&ouid=114268351479360763854&rtpof=true&sd=true"> Planilha pontos focais </a> <div id="tabela"></div>
-<a href="https://docs.google.com/document/d/1ROncxIWuuvNjLIO7fCPBE2KSleb6vbTdNDqvWLJUQO8/edit?usp=sharing"> Ambiente de Homologação e Cronograma</a> <div id="tabela"></div>
-<a href="https://drive.google.com/drive/folders/16DIMai9EktCDlfKYwOwbGQvSXto58dnV?usp=sharing">Pastinha Munícipios </a> <div id="tabela"></div>
-<a href="https://drive.google.com/drive/folders/19fKh9LJ1G4zjS6XdcPhwYZ6npLErNieE?usp=sharing">Tutoriais Diário de Classe </a> <div id="tabela"></div>
-<a href="https://homologacao-sed.educacao.sp.gov.br/"> O link da SED no ambiente de homologação está aqui, o acesso é o mesmo da SED, porém a senha será 12345678 </a> <div id="tabela"></div>
-
-
-</a>REUNIÇÕES</a><div id="tabela"></div>
-<a href="https://drive.google.com/file/d/18V76nbV1KUgVpYOPERpbZHGQROWn_YkD/view?usp=sharing</a> <div id="tabela"></div>
-</a>Parametrização do Período de Fechamento (educacao.sp.gov.br)</a><div id="tabela"></div>
-<a href="https://governosp-my.sharepoint.com/:v:/g/personal/camila_alcazar_sp_gov_br/EbJEn5eDFdpOkFjzLGrjVGUBtEBWeKF6zbL35Q5lnAPotg</a> <div id="tabela"></div>
-<a href="https://www.al.sp.gov.br/repositorio/legislacao/decreto/2019/decreto-64187-17.04.2019.html</a> <div id="tabela"></div>
-<a href="https://docs.google.com/presentation/d/1zqObrBjxS9hR1ZKc9KFpW82v7Mmtp165/edit#slide=id.p4</a> <div id="tabela"></div>
-</a>SISTEMAS DE ALIMENTAÇÃO </a><div id="tabela"></div>
-<a href="https://docs.google.com/spreadsheets/d/1_10kdJJCoZXYPYhl0B7thhpv17mnAYFJnw_5G_vHK_Q/edit?usp=sharing</a> <div id="tabela"></div>
-<a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWQ3OTM2ZTMtNTdmMS00Nzg5LTk2ZDItOGE1YTFjN2QyNzVi%40thread.v2/0?context=%7b%22Tid%22%3a%2216b87798-4517-442c-9200-ce1cca93259c%22%2c%22Oid%22%3a%22cb70dc3b-5dba-457a-af63-75de3719f285%22%7d</a> <div id="tabela"></div>
-
-
 <a href="https://github.com/public-apis/public-apis">GIT HUB </a>   <div id="tabela"></div>
 <a href="https://www.tst.jus.br/certidao1">Certidão Negativa de Débitos Trabalhistas </a> <div id="tabela"></div>
 <a href="http://cnd.dataprev.gov.br/cws/contexto/cnd/cnd.html">Consulta à Certidão Negativa de Débito (CND) </a> <div id="tabela"></div>
@@ -166,72 +115,6 @@ document.getElementById("tabela").appendChild(criarTabela([
 
 
 
-
-
-SÃO PAULO 03/12/2021
-
-
-"> </a> <div id="tabela"></div>
-<a href="seducsp.visualstudio.com"> </a> <div id="tabela"></div>
-<a href="https://seducsp.visualstudio.com"> </a> <div id="tabela"></div>
-<a href="https://dev.azure.com/devopssee"> </a> <div id="tabela"></div>
-<a href="dev.azure.com/devopssee"> </a> <div id="tabela"></div>
-<a href="https://dev.azure.com/devopssee"> </a> <div id="tabela"></div>
-<a href="https://drive.google.com/file/d/18V76nbV1KUgVpYOPERpbZHGQROWn_YkD/view?usp=sharing"> </a> <div id="tabela"></div>
-<a href="https://governosp-my.sharepoint.com/:v:/g/personal/camila_alcazar_sp_gov_br/EbJEn5eDFdpOkFjzLGrjVGUBtEBWeKF6zbL35Q5lnAPotg"> </a> <div id="tabela"></div>
-<a href="https://www.al.sp.gov.br/repositorio/legislacao/decreto/2019/decreto-64187-17.04.2019.html"> </a> <div id="tabela"></div>
-<a href="http://siau.edunet.sp.gov.br/ItemLise/arquivos/36_16.HTM"> </a> <div id="tabela"></div>
-<a href="https://docs.google.com/document/d/1FSwmJkrcpyV65gZmmjKg440_SQ4aNTn_jVhaOEj0cjk/edit?usp=sharing"> </a> <div id="tabela"></div>
-<a href="http://inovaeducacao.escoladeformacao.sp.gov.br/"> </a> <div id="tabela"></div>
-<a href="https://dados.educacao.sp.gov.br/"> </a> <div id="tabela"></div>
-<a href="https://sed.educacao.sp.gov.br/"> </a> <div id="tabela"></div>
-<a href="http://portalnet.educacao.sp.gov.br/login.aspx"> </a> <div id="tabela"></div>
-<a href="https://gdaenet.edunet.sp.gov.br/"> </a> <div id="tabela"></div>
-<a href="http://curriculomais.educacao.sp.gov.br/"> </a> <div id="tabela"></div>
-<a href="http://aventuras.educacao.sp.gov.br/"> </a> <div id="tabela"></div>
-<a href="https://atendimento.educacao.sp.gov.br/"> </a> <div id="tabela"></div>
-<a href="https://docs.google.com/presentation/d/1zqObrBjxS9hR1ZKc9KFpW82v7Mmtp165/edit#slide=id.p4"> </a> <div id="tabela"></div>
-
- </a> <div id="tabela"></div>
-<a href="https://docs.google.com/spreadsheets/d/1_10kdJJCoZXYPYhl0B7thhpv17mnAYFJnw_5G_vHK_Q/edit?usp=sharing"> tutorial Tutorial Diário de Classe - SED - Aprovação das eletivas - Documentos Google
-Google Docs - create and edit documents online, for free.
-Create a new document and edit with others at the same time -- from your computer, phone or tablet. Get stuff done with or without an internet connection. Use Docs to edit Word files. Free from Goo...
-
-</a> <div id="tabela"></div>
-
-
-
- </a> <div id="tabela"></div>
-<a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWQ3OTM2ZTMtNTdmMS00Nzg5LTk2ZDItOGE1YTFjN2QyNzVi%40thread.v2/0?context=%7b%22Tid%22%3a%2216b87798-4517-442c-9200-ce1cca93259c%22%2c%22Oid%22%3a%22cb70dc3b-5dba-457a-af63-75de3719f285%22%7d"> </a> <div id="tabela"></div>
-<a href="https://docs.google.com/spreadsheets/d/16NVC2N__r0pccOzG5RNXSMYHm9ZQoQqo/edit?usp=sharing&ouid=114268351479360763854&rtpof=true&sd=true"> </a> <div id="tabela"></div>
-<a href="https://docs.google.com/document/d/1ROncxIWuuvNjLIO7fCPBE2KSleb6vbTdNDqvWLJUQO8/edit?usp=sharing"> </a> <div id="tabela"></div>
-<a href="https://drive.google.com/drive/folders/16DIMai9EktCDlfKYwOwbGQvSXto58dnV?usp=sharing"> </a> <div id="tabela"></div>
-<a href="https://drive.google.com/drive/folders/19fKh9LJ1G4zjS6XdcPhwYZ6npLErNieE?usp=sharing"> </a> <div id="tabela"></div>
-<a href="https://homologacao-sed.educacao.sp.gov.br/"> </a> <div id="tabela"></div>
-<a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTYyODZiZmMtYjM0YS00NmZhLWI5MjAtNmE5NWQ5YTQ4YjYz%40thread.v2/0?context=%7b%22Tid%22%3a%2216b87798-4517-442c-9200-ce1cca93259c%22%2c%22Oid%22%3a%22456fe2d6-bb45-43b1-852c-73cbe27ec6ed%22%7d"> REUNIÃO – FICHA SED MUNICIPIOS </a> <div id="tabela"></div>
-
-
-
-<a href="https://docs.google.com/spreadsheets/d/16NVC2N__r0pccOzG5RNXSMYHm9ZQoQqo/edit?usp=sharing&ouid=114268351479360763854&rtpof=true&sd=true"> ---PILOTO – PONTOS FOCAIS </a> <div id="tabela"></div>
-
-<a href="https://drive.google.com/drive/folders/16DIMai9EktCDlfKYwOwbGQvSXto58dnV?usp=sharing"> -- DED </a> <div id="tabela"></div>
-
-
-<a href="https://drive.google.com/drive/folders/19fKh9LJ1G4zjS6XdcPhwYZ6npLErNieE?usp=sharing"> -- LINK TUTORIAIS – DIARIO DE CLASSE </a> <div id="tabela"></div>
-
-
-
-
-<a href="https://homologacao-sed.educacao.sp.gov.br/Inicio"> Secretaria Escolar Digital | Secretaria da Educação do Estado de São Paulo 
-A Secretaria Escolar Digital é uma plataforma on-line com vários módulos. Criada para centralizar, agilizar e facilitar todas as operações que envolvem a gestão diária da administração escolar, pro...
-
-
-Ambiente de Homologação
-
-Os testes deverão ser realizados no ambiente de homologação da SED, com o mesmo usuário da SED e senha 12345678.
-
-Secretaria Escolar Digital (educacao.sp.gov.br)
-</a> <div id="tabela"></div>
 
 
 <a href="https://www.servcloud.com.br/">ServCloud | Hospedagem com Qualidade e Velocidade Sempre ON </a> <div id="tabela"></div>
